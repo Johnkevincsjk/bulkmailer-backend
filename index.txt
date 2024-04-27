@@ -1,0 +1,4 @@
+1. create a route for login and signin ( create signin route and use it for both)
+2. get all data from client regarding mail
+3. write a code in MVC pattern
+4.use node mailer for mail ability
