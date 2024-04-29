@@ -1,7 +1,7 @@
 
 const mongoose = require('mongoose')
 
-mongoose.connect('mongodb://localhost:27017/Bulkmailer_Signin')
+mongoose.connect('mongodb+srv://johnkevincsjk:DD03fJEDMPycUIrY@bulkmailercluster.xoxal0d.mongodb.net/bulkmailerdb')
 
 const signin_schema = new mongoose.Schema({
 
